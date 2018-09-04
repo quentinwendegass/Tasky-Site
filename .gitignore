@@ -1,0 +1,6 @@
+.idea/
+**/.DS_Store
+resources/
+app/dist/
+node_modules/
+
