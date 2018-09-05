@@ -1,0 +1,14 @@
+$font: "Helvetica Neue", "Helvetica", sans-serif;
+$primary_color: #3C70C4;
+
+#privacy-policy{
+  padding: 20px;
+
+  h1{
+    text-align: center;
+  }
+  h1, h2, p, li{
+    font-family: $font;
+    color: $primary_color;
+  }
+}
